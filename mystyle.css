@@ -1,0 +1,15 @@
+/*mystyle.css*/
+
+body{
+    background-color: skyblue;
+    padding: 30px;
+}
+
+h1{
+    font-size: 20px;
+    color: red;
+}
+p{
+ font-size: 20px;
+ color: green;
+}
